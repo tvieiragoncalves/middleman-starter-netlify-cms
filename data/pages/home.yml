@@ -2,15 +2,15 @@ hero:
   image: /images/uploads/11.png
   title: Aromas do Arda
 story: >-
-  <!--\\[if gte mso 9]><xml>
+  <!--\\\[if gte mso 9]><xml>
    <o:OfficeDocumentSettings>
     <o:RelyOnVML/>
     <o:AllowPNG/>
    </o:OfficeDocumentSettings>
-  </xml><!\\[endif]-->
+  </xml><!\\\[endif]-->
 
 
-  <!--\\[if gte mso 9]><xml>
+  <!--\\\[if gte mso 9]><xml>
    <w:WordDocument>
     <w:View>Normal</w:View>
     <w:Zoom>0</w:Zoom>
@@ -50,10 +50,10 @@ story: >-
      <m:intLim m:val="subSup"/>
      <m:naryLim m:val="undOvr"/>
     </m:mathPr></w:WordDocument>
-  </xml><!\\[endif]-->
+  </xml><!\\\[endif]-->
 
 
-  <!--\\[if gte mso 9]><xml>
+  <!--\\\[if gte mso 9]><xml>
    <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
     DefSemiHidden="false" DefQFormat="false" DefPriority="99"
     LatentStyleCount="371">
@@ -622,10 +622,10 @@ story: >-
     <w:LsdException Locked="false" Priority="52"
      Name="List Table 7 Colorful Accent 6"/>
    </w:LatentStyles>
-  </xml><!\\[endif]-->
+  </xml><!\\\[endif]-->
 
 
-  <!--\\[if gte mso 10]>
+  <!--\\\[if gte mso 10]>
 
   <style>
    /* Style Definitions */
@@ -654,13 +654,13 @@ story: >-
   	mso-fareast-language:EN-US;}
   </style>
 
-  <!\\[endif]-->
+  <!\\\[endif]-->
 
 
   <!--StartFragment-->
 
 
-  Aromas do Arda, é o nome da nossa página, que se refere ao rio Arda (afluente do rio Douro) que banha a nossa pequena exploração de ervas aromáticas, que cultivamos e produzimos de forma artesanal, com base na agricultura biológica, e em harmonia com o ecossistema envolvente.
+  Aromas do Arda, é o nome da nossa página, que se refere à nossa pequena exploração de ervas aromáticas, situada junto ao rio Arda (afluente do rio Douro), que cultivamos e produzimos de forma artesanal, com base na agricultura biológica, e em harmonia com o ecossistema envolvente.
 
 
   Para além de constituírem um lindo jardim aromático, permitem-nos fazer excelentes infusões, e abastecer a cozinha a qualquer hora criando receitas deliciosas, com menos sal e com muito mais aroma.
