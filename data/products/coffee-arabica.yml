@@ -4,14 +4,14 @@ image: /images/uploads/img_20201009_181359.jpg
 weight: 1
 price: 1
 body: >-
-  .<!--\[if gte mso 9]><xml>
+  .<!--\\[if gte mso 9]><xml>
    <o:OfficeDocumentSettings>
     <o:AllowPNG/>
    </o:OfficeDocumentSettings>
-  </xml><!\[endif]-->
+  </xml><!\\[endif]-->
 
 
-  <!--\[if gte mso 9]><xml>
+  <!--\\[if gte mso 9]><xml>
    <w:WordDocument>
     <w:View>Normal</w:View>
     <w:Zoom>0</w:Zoom>
@@ -51,10 +51,9 @@ body: >-
      <m:intLim m:val="subSup"/>
      <m:naryLim m:val="undOvr"/>
     </m:mathPr></w:WordDocument>
-  </xml><!\[endif]-->
+  </xml><!\\[endif]-->
 
 
-  <!--\[if gte mso 9]><xml>
    <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
     DefSemiHidden="false" DefQFormat="false" DefPriority="99"
     LatentStyleCount="371">
@@ -623,10 +622,9 @@ body: >-
     <w:LsdException Locked="false" Priority="52"
      Name="List Table 7 Colorful Accent 6"/>
    </w:LatentStyles>
-  </xml><!\[endif]-->
 
 
-  <!--\[if gte mso 10]>
+  <!--\\[if gte mso 10]>
 
   <style>
    /* Style Definitions */
@@ -655,7 +653,7 @@ body: >-
   	mso-fareast-language:EN-US;}
   </style>
 
-  <!\[endif]-->
+  <!\\[endif]-->
 
 
   <!--StartFragment-->
