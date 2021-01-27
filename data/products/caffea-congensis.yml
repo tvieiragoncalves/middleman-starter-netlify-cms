@@ -4,7 +4,7 @@ image: /images/uploads/erv-cidreira.jpg
 weight: 1
 price: 1
 body: >-
-  .<!--\[if gte mso 9]><xml>
+  <!--\[if gte mso 9]><xml>
    <o:OfficeDocumentSettings>
     <o:AllowPNG/>
    </o:OfficeDocumentSettings>
